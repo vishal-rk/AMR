@@ -1,0 +1,10 @@
+<launch>
+  <arg name = "robot_name" default = "2"/>
+  <node pkg="ark" type="practice2.py" name="Goalachievers" ns ="robot$(arg robot_name)"  output="screen">
+  </node>
+ 
+</launch>
+
+
+
+
