@@ -1,4 +1,4 @@
-Team Name: Goalachievers
+Team
 
 @Amit Kushwaha
 @Shubham Kadamdhad
